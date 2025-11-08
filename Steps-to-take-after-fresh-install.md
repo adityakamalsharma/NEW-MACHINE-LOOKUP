@@ -15,4 +15,12 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
   ```sudo apt install fzf```
   - zoxide
     ```sudo apt install zoxide```
+- choose
+  ```
+  cargo install choose
+  ```
+-  grex
+  ```
+  cargo install grex
+  ```
 
