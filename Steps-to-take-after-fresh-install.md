@@ -7,5 +7,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
   ```
   usr/local/bin/cargo
   ```
-3. Install Alacritty, fzf,zoxide
+3. Install Alacritty:
+  ```sudo apt install alacritty```
+fzf
+
+zoxide
 
