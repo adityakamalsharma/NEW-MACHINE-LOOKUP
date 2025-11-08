@@ -3,7 +3,7 @@
   ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
   ```
-2. **ALWAYS BUILD WITH CARGO, THEN TAKE THE BINARY TO:**
+2. **BUILD, THEN TAKE THE BINARY TO:**
   ```
   usr/local/bin/cargo
   ```
